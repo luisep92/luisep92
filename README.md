@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I'm Luis 👋
+
+Backend & Systems Developer · Real-Time Networking · Game Dev Mindset · AI-assisted Engineering
+
+I build tools, system-level features and real-world workflows that people actually want to use. Simplicity, clarity, predictability — that's the kind of software I like to make.
+Professional experience with EEBUS (smart home interoperability), mDNS, WebSockets and system-level testing.
+
+From networking utilities to Unity gameplay systems and public game mods (10k+ users), I enjoy building things people can actually rely on.
+
 
 <!--
 **luisep92/luisep92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
